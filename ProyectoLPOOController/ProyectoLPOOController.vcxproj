@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectGuid>{285FB6CA-C094-4BE0-96C7-73951639ABD9}</ProjectGuid>
+    <ProjectGuid>{D14457BD-3A44-4224-A78F-64962181337D}</ProjectGuid>
     <EnableManagedPackageReferenceSupport>true</EnableManagedPackageReferenceSupport>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>ProyectoLPOOModel</RootNamespace>
+    <RootNamespace>ProyectoLPOOController</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -112,16 +112,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Cliente.h" />
-    <ClInclude Include="Persona.h" />
-    <ClInclude Include="Productos.h" />
-    <ClInclude Include="SensorNumerico.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Cliente.cpp" />
-    <ClCompile Include="Persona.cpp" />
-    <ClCompile Include="Productos.cpp" />
-    <ClCompile Include="SensorNumerico.cpp" />
+    <ProjectReference Include="..\ProyectoLPOOModel\ProyectoLPOOModel.vcxproj">
+      <Project>{285fb6ca-c094-4be0-96c7-73951639abd9}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
