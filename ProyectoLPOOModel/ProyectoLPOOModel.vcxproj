@@ -112,16 +112,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Cliente.h" />
-    <ClInclude Include="Persona.h" />
-    <ClInclude Include="Productos.h" />
-    <ClInclude Include="SensorNumerico.h" />
+    <ClInclude Include="asas.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\BarreraVehicular.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\EstacionPesaje.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PagoTarjeta.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PantallaLCD.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Persona.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PropietarioVehiculo.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\SensorBarras.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Usuario.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vascula.h" />
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vehiculo.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Cliente.cpp" />
-    <ClCompile Include="Persona.cpp" />
-    <ClCompile Include="Productos.cpp" />
-    <ClCompile Include="SensorNumerico.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\BarreraVehicular.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\EstacionPesaje.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PagoTarjeta.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PantallaLCD.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Persona.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PropietarioVehiculo.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\SensorBarras.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Usuario.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vascula.cpp" />
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vehiculo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

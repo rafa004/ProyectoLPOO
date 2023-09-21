@@ -15,30 +15,69 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Productos.h">
+    <ClInclude Include="asas.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="SensorNumerico.h">
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PagoTarjeta.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Persona.h">
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PantallaLCD.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Cliente.h">
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Persona.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PropietarioVehiculo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\SensorBarras.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Usuario.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vascula.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vehiculo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\BarreraVehicular.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\EstacionPesaje.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Productos.cpp">
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\EstacionPesaje.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="SensorNumerico.cpp">
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PagoTarjeta.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Persona.cpp">
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PantallaLCD.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Cliente.cpp">
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Persona.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\PropietarioVehiculo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\SensorBarras.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Usuario.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vascula.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\Vehiculo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PUCP\2023-2\LPOO\Proyecto\Model\BarreraVehicular.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
